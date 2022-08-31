@@ -1,19 +1,19 @@
-# JSP-PROJECT-2-HomeSool.com
-JSP project
+
+# JSP-PROJECT-HomeSool.com
+
+## 🖥️ 프로젝트 개요 <br/>
   
-## 🖥️ Project 소개 <br/>
-*  "HomeSool.com🍺🥂"<br/>
-  실제로 있는 웹사이트 홈술닷컴을 모방한 페이지 입니다. <br/>
-  
+ 전통주 판매 사이트 <a href="https://www.homesool.com/main/index.php">홈술닷컴</a>을 크롤링하여 제작했습니다. 회원 가입과 등급별 차등 혜택 및 정보 수정 기능과,  위치 기반 배송지 등록 기능을 제공합니다. 대한민국 공공 도로명 주소 DB를 활용하여 배송지를 등록할 수 있으며 고객센터 게시판에 문의 사항을 등록할 수 있도록 구현했습니다.  <br/>
+
 ## 🕰️ 기간 <br/>
 *  2022.02.25 ~ 2022.03.04
 <br/>
 
 ## 👥 팀원 <br/>
+  <b>남승은<b/>: CS고객센터, 마이페이지, 메인페이지 CSS <br/>
   <b>박가윤<b/>: 메인페이지, 장바구니, 아이템 담기, 전체 CSS <br/>
-  <b>서동혁<b/>: DB설게, DB구현, 회원가입, 로그인, 전체통합 <br/>
-  <b>남승은<b/>: CS고객센터, 마이페이지, 메인페이지, CSS <br/>
-  <b>이나영<b/>: 상품 이미지 게시판, 상품상세페이지, 아이디/비밀번호 찾기 
+  <b>이나영<b/>: 상품 이미지 게시판, 상품 상세페이지, 아이디/비밀번호 찾기 
+  <b>서동혁<b/>: DB설계, DB구현, 회원가입, 로그인, 전체통합 <br/>
 <br/>
   
   
@@ -21,18 +21,19 @@ JSP project
 - `Java 8`
 - `JavaScript`  
 - `Eclipse`
-- `eclipse`
 - `Apache Tomcat 7.0.92`
 - `JDK 1.8.0`
 - `oracle`
 - `JSP`
+
+<img src="https://user-images.githubusercontent.com/106688072/187617475-78bd9947-9561-40ea-824f-7a2a9f903748.PNG" width="550" height="318"/>
 
   
   <br/>
   <br/>
   <br/>
 
- ## 💻화면캡처 <br/>
+ <!-- ## 💻구현 화면 <br/>
   
   
 <img src="https://user-images.githubusercontent.com/104606416/171799910-46a86db9-0d29-4769-ae00-c819fef715ee.png" width="750" height="518"/>
@@ -54,7 +55,7 @@ JSP project
 <img src="https://user-images.githubusercontent.com/104606416/171799951-1072f258-7490-46fb-a59c-623505f44603.png" width="750" height="518"/>
 <img src="https://user-images.githubusercontent.com/104606416/171799953-97888b32-3e66-44cd-9434-b24e016e53a2.png" width="750" height="518"/> 
 <img src="https://user-images.githubusercontent.com/104606416/171799955-e84cdf24-3626-48e2-9c15-bab5643143da.png" width="750" height="518"/>
-<img src="https://user-images.githubusercontent.com/104606416/171799956-00ced1bf-359d-4a1b-8878-e1a24352a3bb.png" width="750" height="518"/>
+<img src="https://user-images.githubusercontent.com/104606416/171799956-00ced1bf-359d-4a1b-8878-e1a24352a3bb.png" width="750" height="518"/>--!>
   
   
  
